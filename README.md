@@ -1,3 +1,3 @@
 # suraj
 this is my first repository.
-athord suraj kumar.
+athord suraj kumari.
